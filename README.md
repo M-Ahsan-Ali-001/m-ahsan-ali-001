@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=m-ahsan-ali-001&show_icons=true&theme=ADD_THEME_HERE" width="400">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-ahsan-ali-001&theme=nightowl)](https://git.io/streak-stats)
 
 <!--
 **M-Ahsan-Ali-001/m-ahsan-ali-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
