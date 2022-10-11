@@ -9,8 +9,7 @@
 - 📫 How to reach me: muhammadahsanali120@gmail.com
 </div
     
-<div>    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-ahsan-ali-001&theme=nightowl)](https://git.io/streak-stats)
-    
-    </div >
-   </div >
+<div>    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-ahsan-ali-001&theme=nightowl)](https://git.io/streak-stats) </div >
+
+</div >
 
