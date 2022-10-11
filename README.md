@@ -1,12 +1,5 @@
 ### Hello folks!, I am Ahsan 👋
 
-
-
-
-<--**M-Ahsan-Ali-001/m-ahsan-ali-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
-
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity & Blender
 - 👯 I’m looking to collaborate on Unity & UE5
